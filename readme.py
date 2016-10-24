@@ -7,4 +7,5 @@ if a == True:
 else:
 	print("if statement returns incorrect result")
 	
+print("modified file readme.py in clone of hello-world named hello-3 on local computer")
 print("readme test complete")
